@@ -1,0 +1,7 @@
+[main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager  - Get connection for route {}->http://localhost:8088
+[main] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator  - Connecting to localhost:8088
+[main] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator  - Connect to localhost:8088 timed out. Connection will be retried using another IP address
+[main] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator  - Connecting to localhost:8088
+[main] DEBUG org.apache.http.impl.conn.DefaultClientConnection  - Connection org.apache.http.impl.conn.DefaultClientConnection@33d53216 closed
+[main] DEBUG org.apache.http.impl.conn.DefaultClientConnection  - Connection org.apache.http.impl.conn.DefaultClientConnection@33d53216 shut down
+[main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager  - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@69a2b3b6
